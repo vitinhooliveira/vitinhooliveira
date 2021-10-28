@@ -1,7 +1,7 @@
 ## Olá eu sou o Victor 👋
 
 - 🔭 Hoje trabalho como front-end JR
-- 🌱 Estudando React | Next | Angular | TypeScript
+- 🌱 Estudando React | Next | TypeScript
 - 😄 No tempo livre gosto de jogar video game, ler mangas, ver series animes
 
 <div>
@@ -14,7 +14,6 @@
   <img align="center" alt="Vitinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitinho-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vitinho-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vitinho-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Vitinho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitinho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
